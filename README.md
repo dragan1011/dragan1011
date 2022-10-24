@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Dragan
-- 🌱 I’m currently learning HTML/CSS/JS and WebFlow
+- 🌱 HTML/CSS/JS, WebFlow, React
 - 💞️ I’m looking to collaborate on projects
 
 <!---
