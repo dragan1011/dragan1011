@@ -1,2 +1,2 @@
 - 👋 Hi, I’m Dragan
-- 🌱 React, Node, MySQL WebFlow
+- 🌱 React, Vue, Node, TypeScript
