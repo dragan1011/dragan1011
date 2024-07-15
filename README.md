@@ -1,2 +1,2 @@
 - 👋 Hi, I’m Dragan
-- 🌱 React, Vue, Node, TypeScript
+- 🌱 React, Vue, Node, TypeScript, Webflow, WordPress
